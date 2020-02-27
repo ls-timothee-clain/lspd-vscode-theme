@@ -1,21 +1,31 @@
 {
-	"name": "Lightspeed Vscode theme",
+	"name": "lspd-vscode",
 	"type": "dark",
 	"colors": {
+		// "editor.background": "#2B354D",
 		"editor.background": "#2B354D",
 		"editor.foreground": "#D5D9DF",
-		"activityBar.background": "#C65B5D",
-		"activityBar.activeBackground": "#b95c5e",
-		"activityBar.inactiveForeground": "#d4c1c1",
-		"activityBar.activeBorder": "#e7e7e7",
-		"activityBar.activeFocusBorder": "#e7e7e7",
+		"editor.lineHighlightBackground": "#222A3C",
+		// "activityBar.background": "#C65B5D",
+		"activityBar.background": "#242A3B",
+		"activityBar.inactiveForeground": "#7c7c7c",
+		"activityBar.activeBorder": "#C65B5D",
+		"activityBar.foreground": "#C65B5D",
 		"activityBar.border": "#1F2537",
-		
+		"statusBar.background": "#C65B5D",
+		"tab.activeBackground": "#2B354D",
 		"sideBarTitle.foreground": "#D5D9DF",
 		"sideBar.background": "#222A3C",
+		"minimap.errorHighlight": "#C65B5D",
+		//"sideBarSectionHeader.border": "#1F2537",
+		"sideBarSectionHeader.background": "#2B354D",
+		"scrollbar.shadow": "#000",
 		"sideBar.border": "#1F2537",
-		"peekViewEditor.background": "#222A3C",
-		"peekView.border": "#acacac",
+		"peekViewEditor.background": "#2B354D",
+		"peekView.border": "#636464",
+		"settings.textInputBackground": "#2B354D",
+		"focusBorder": "#C65B5D",	
+		
 	},
 	"tokenColors": [
 		{
@@ -220,7 +230,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#C65B5D"
 			}
 		},
 		{
@@ -511,7 +521,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#C65B5D"
 			}
 		},
 		{
