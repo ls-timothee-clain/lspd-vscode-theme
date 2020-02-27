@@ -1,6 +1,7 @@
 {
     "name": "lspd-vscode-theme",
     "displayName": "lspd-vscode-theme",
+    "publisher": "ls-timothee-clain",
     "description": "a simplistic vscode theme inspired by lightspeed",
     "version": "0.0.1",
     "engines": {
