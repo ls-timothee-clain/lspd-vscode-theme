@@ -1,7 +1,7 @@
 {
-    "name": "lightspeed-code-theme",
-    "displayName": "lightspeed-code-theme",
-    "description": "an attempt to have lightspeed colors in vscode",
+    "name": "lspd-vscode-theme",
+    "displayName": "lspd-vscode-theme",
+    "description": "a simplistic vscode theme inspired by lightspeed",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.42.0"
